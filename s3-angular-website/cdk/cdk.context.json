@@ -1,0 +1,8 @@
+{
+  "@aws-cdk/core:enableStackNameDuplicates": "true",
+  "aws-cdk:enableDiffNoFail": "true",
+  "hosted-zone:account=169897650136:domainName=cdkmdlqccet.link:region=us-east-1": {
+    "Id": "/hostedzone/Z06287453JG9R2EC1TE27",
+    "Name": "cdkmdlqccet.link."
+  }
+}
